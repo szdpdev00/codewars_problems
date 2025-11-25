@@ -8,6 +8,7 @@ from problems_7kys import vowel_count_run
 
 ### 6kys
 from problems_6kys import mult_of_3_or_5_run
+from problems_6kys import who_likes_it_run
 
 if __name__ == "__main__":
-    mult_of_3_or_5_run()
+    who_likes_it_run()
