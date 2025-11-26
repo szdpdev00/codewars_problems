@@ -8,7 +8,11 @@ from problems_7kys import vowel_count_run
 
 ### 6kys
 from problems_6kys import mult_of_3_or_5_run
+from problems_6kys import look_and_write_seq_run
 from problems_6kys import who_likes_it_run
 
+### 5kys
+from problems_5kys import moving_zeroes_to_the_end_run
+
 if __name__ == "__main__":
-    who_likes_it_run()
+    pass
