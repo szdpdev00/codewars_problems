@@ -13,6 +13,8 @@ from problems_6kys import who_likes_it_run
 
 ### 5kys
 from problems_5kys import moving_zeroes_to_the_end_run
+from problems_5kys import rgb_to_hex_converter_run
+from problems_5kys import human_readable_time_run
 
 if __name__ == "__main__":
     pass
