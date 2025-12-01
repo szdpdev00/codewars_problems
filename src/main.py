@@ -16,5 +16,8 @@ from problems_5kys import moving_zeroes_to_the_end_run
 from problems_5kys import rgb_to_hex_converter_run
 from problems_5kys import human_readable_time_run
 
+### 4kys
+from problems_4kys import snail_run
+
 if __name__ == "__main__":
     pass
