@@ -18,6 +18,7 @@ from problems_5kys import human_readable_time_run
 
 ### 4kys
 from problems_4kys import snail_run
+from problems_4kys import next_bigger_run
 
 if __name__ == "__main__":
     pass
