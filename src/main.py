@@ -27,7 +27,8 @@ from problems_4kys import (
     snail_run,
     next_bigger_run,
     observer_pin_run,
-    sum_of_intervals_run
+    sum_of_intervals_run,
+    strip_comments_run
 )
 
 
